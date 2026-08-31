@@ -1,1 +1,3 @@
-# Zepto_db-cleaning-solutions
+# Zepto_db cleaning and solutions 
+
+![zepto_logo](Zepto-image.png)
